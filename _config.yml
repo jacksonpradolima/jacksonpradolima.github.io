@@ -6,7 +6,7 @@
 name: Jackson A. Prado Lima
 
 # Short bio or description (displayed in the header)
-description: PhD Student
+description: Computer Science PhD candidate.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jacksonpradolima/jacksonpradolima.github.io/master/images/rick_and_morty_avatar.jpg
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/jacksonpradolima/jacksonpradolima.gith
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jacksonpradolima@gmail.com
   facebook: pradolima
   flickr:
   github: jacksonpradolima
@@ -30,6 +30,11 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  lattes: #Lattes code - 3457149082225309
+  researchgate: Jackson_Antonio_Do_Prado_Lima # username
+  academiaedu: #<institution>.academia.edu/<username>
+  orcid: 0000-0003-4993-777X # ORCID ID
+  quora: # username
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
