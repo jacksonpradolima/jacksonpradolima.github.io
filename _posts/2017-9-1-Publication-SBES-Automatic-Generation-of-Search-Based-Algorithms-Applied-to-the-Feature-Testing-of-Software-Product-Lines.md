@@ -1,8 +1,0 @@
----
-layout: post
-title: Publication - Automatic Generation of Search-Based Algorithms Applied to the Feature Testing of Software Product Lines
----
-
-The selection of products for the variability testing of Feature Models (FMs) is a complex task impacted by many factors. To solve this problem, Multi-Objective Evolutionary Algorithms (MOEAs) have been successfully used in the field known as Search-Based Software Engineering (SBSE). However, the design of a search-based approach is not an easy task for the software engineer, who can find some difficulties such as: the choice and configuration of the best MOEAs, the choice of the best search operators to be implemented, and so on. In addition to this, existing approaches are dependent on the problem domain and do not allow reuse. In this way the use of Hyper-Heuristic (HH) can help to obtain more generic and reusable search-based approaches, and because of this is considered a trend in the SBSE field. Following this trend and to contribute to reduce the software engineer's efforts, this work explores the use of a hyper-heuristic for automatically generation of MOEAs to select test products from the FM, considering three factors: pairwise coverage, mutation score and cost, given by the number of products. The HH is based on a grammar that represents the elements, parameters and components of existing MOEAs and implements evolutionary operators, such as crossover and mutation, suitable for selection problems. In this way, it can be reused for other similar software engineering problems. Evaluation results show that the proposed approach obtains results that are better or statistically equivalent than similar approaches found in the literature.
-
-You will see more about this publication at soon.
