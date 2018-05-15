@@ -4,8 +4,8 @@ collection: classes
 permalink: /teaching/Exercicios/Indice
 ---
 
-** Verifique o tipo de linguagem de programação desejada de cada resolução dos exercícios**
+**Verifique o tipo de linguagem de programação desejada de cada resolução dos exercícios**
 
 ## Lista de Exercícios
 
-1 - [Exercícios com Vetores](https://jacksonpradolima.github.io/files/teaching/Exercicios/Vetores)
+1 - [Exercícios com Vetores](https://jacksonpradolima.github.io/teaching/Exercicios/Vetores)

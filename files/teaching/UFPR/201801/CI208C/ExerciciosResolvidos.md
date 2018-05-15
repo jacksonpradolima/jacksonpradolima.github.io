@@ -17,4 +17,4 @@ Saída:
  1.5 ocorre 1 vez  
  2.3 ocorre 1 vez  
 
-- [Soluções em C](https://jacksonpradolima.github.io/files/teaching/Exercicios/Vetores/Questao1/SolucaoC)
+- [Soluções em C](https://jacksonpradolima.github.io/teaching/Exercicios/Vetores/Questao1/SolucaoC)
