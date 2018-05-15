@@ -51,15 +51,14 @@ int main() {
 
     while (j < n)
       if (seq[j] != seq[i]){
-		j = j + 1;    
-	  } else {
-        vezes = vezes +1;
-		/* quando repete, remove */
-        n = n - 1;
+        j = j + 1;    
+      } else { 
+        vezes = vezes + 1;
+        n = n - 1; /* quando repete, remove */
         seq[j] = seq[n];
       }     
     cout << seq[i] << " ocorre " << vezes << " vezes" << endl;
-  	i = i + 1;
+    i = i + 1;
   }
 
   return 0;
@@ -100,8 +99,7 @@ int main() {
       /* se o numero nunca tinha aparecido */
       conta[comp] = 1;
       comp = comp + 1;
-    }
-    else {
+    } else {
       /* se já apareceu, incrementa o número de vezes que esse número apareceu */
       conta[j] = conta[j] + 1;
     }
@@ -165,8 +163,7 @@ int main() {
   int cont = 1;
 
   /*Conta quantas vezes aparece*/
-  while(i < n)
-  {
+  while(i < n){
     while (seq[i] == seq[j]){
       cont = cont + 1;
       j = j + 1;

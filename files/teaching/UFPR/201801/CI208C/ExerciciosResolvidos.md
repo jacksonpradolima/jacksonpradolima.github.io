@@ -4,7 +4,7 @@ collection: classes
 permalink: /teaching/UFPR/201801/CI208C/ExerciciosResolvidos
 ---
 
-## Lista de Exercícios
+## Vetores
 
 1 - Dada uma seqüência de n números reais, determinar os números que compõem a sequência e o número de vezes que cada um deles ocorre na mesma.
 
