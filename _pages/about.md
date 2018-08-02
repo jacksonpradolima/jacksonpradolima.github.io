@@ -14,13 +14,10 @@ Address to access this CV on Lattes Plataform click [here](http://lattes.cnpq.br
 
 ---
 
-## Atalho para as Disciplinas (Shortcut to Classes)
+**The content below is available only in portuguese** ![alt text](https://jacksonpradolima.github.io/images/brazil.png "Portuguese content")
 
-**The classes are available only in portuguese** ![alt text](https://jacksonpradolima.github.io/images/brazil.png "Portuguese content")
+## Aos alunos das turmas da disciplina CI182 - Fundamentos de Programação de Computadores
 
-A seguir, as disciplinas ministradas no 1º semestre de 2018. Clique para acessá-las:
+Alunos que ainda não tem acesso ao AVA Moodle, na página inicial da [CIPEAD](http://www.cipead.ufpr.br/portal/), em **Acesso ao Moodle**, existe um item chamado **Criar Novo Usuário**, onde o próprio aluno poderá fazer seu cadastro dentro do AVA Moodle, digitando as informações solicitadas. Este procedimento fará o cadastro do aluno no AVA Moodle, mas não na disciplina. 
 
-- [CI208C](https://jacksonpradolima.github.io/teaching/UFPR/201801/CI208C)
-- [CI182A](https://jacksonpradolima.github.io/teaching/UFPR/201801/CI182A)
-- [CI182B](https://jacksonpradolima.github.io/teaching/UFPR/201801/CI182B)
-
+Para o aluno se cadastrar na disciplina, deve clicar [aqui](https://ava.ufpr.br/course/index.php?categoryid=26). Em seguida, aparecerá as turmas disponíveis do Departamento de Informática. Clique na turma que deseja fazer o cadastro e informe o código para se inscrever.
