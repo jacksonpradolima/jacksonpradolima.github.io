@@ -10,3 +10,14 @@
 - Gmail authenticated paste, save/reopen, send/receive, image proxy, and dark mode tests pending manual installation. No claim of Gmail account installation.
 
 Screenshots: `screenshots/full-900.png`, `reply-900.png`, `full-320.png`, `reply-320.png`, `full-images-blocked.png`.
+
+## Production release
+
+PR #1: https://github.com/jacksonpradolima/jacksonpradolima.github.io/pull/1 (merged).
+Implementation commit: `c82bfb181829d5ad57c2072021a241f163f46c37`.
+Production merge: `849cbfd3fa803845b8c36891ba9d8e59965242e0`.
+GitHub-generated `pages build and deployment` run `44854779139`: completed successfully.
+
+Postdeployment unauthenticated HTTPS validation passed for all five exact PNG URLs, including HTTP 200, `image/png`, PNG signature, and byte-for-byte comparison. Evidence and SHA-256 hashes: `public-validation.json`. GitHub, Google Scholar, and the website returned HTTP 200. LinkedIn returned anti-bot HTTP 999; its supplied URL is preserved and requires a manual browser check.
+
+Installation URL: https://jacksonpradolima.github.io/executive-email-signature/INSTALL.html

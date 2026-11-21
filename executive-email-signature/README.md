@@ -26,7 +26,7 @@ Public image URLs:
 
 Installation page: https://jacksonpradolima.github.io/executive-email-signature/INSTALL.html
 
-Publication requires the feature branch changes to reach `master` and the Pages build to succeed. Do not install until all five URLs actually return PNG images; a pushed feature branch alone does not publish them. Consult `tests/public-validation.json` when available for measured results.
+Published through merged PR #1. The Pages deployment succeeded and all five image URLs passed unauthenticated HTTPS validation (HTTP 200, `image/png`, exact PNG bytes). See `tests/RESULTS.md` and `tests/public-validation.json`. Future changes require merging into `master` and a successful Pages build; a pushed feature branch alone does not publish them.
 
 ## Gmail installation
 
