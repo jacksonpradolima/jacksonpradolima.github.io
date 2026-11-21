@@ -72,7 +72,7 @@ def network():
             results.append({'link': label, 'url': url, 'status': error.code, 'note': 'External server rejected automated client; manual link test required'})
         except URLError as error:
             results.append({'link': label, 'url': url, 'error': str(error.reason), 'note': 'Manual link test required'})
-    (ROOT/'tests'/'public-validation.json').write_text(json.dumps(results, indent=2)+'\n', encoding='utf-8')
+    (ROOT/'tests'/'public-validation.json').write_text(json.dumps(results, indent=2)+'\n', encoding='utf-8', newline='\n')
     print(json.dumps(results, indent=2))
 
 def browser():
