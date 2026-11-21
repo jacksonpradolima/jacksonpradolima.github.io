@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://jacksonpradolima.github.io/email-signature/lion.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 41882,
+    "sha256": "d6db6d202b4f61ba7ababf5f357267814a96bddae9f3c31b77b88b485f9872c1"
+  },
+  {
+    "url": "https://jacksonpradolima.github.io/email-signature/linkedin.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 939,
+    "sha256": "92dc671e898afac1e6323d96b47e0771a8c616d125a1f4306732bcf6e9911c4a"
+  },
+  {
+    "url": "https://jacksonpradolima.github.io/email-signature/github.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 1659,
+    "sha256": "d88063db91e21ee3e7c4a1ab59c4c7e76b5fe82797fb6777a6b08be5150e6ee2"
+  },
+  {
+    "url": "https://jacksonpradolima.github.io/email-signature/scholar.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 1086,
+    "sha256": "b5a440ada912deba35d84227b3717e97a28a0d39ce0facacb2aca24ce7f82a46"
+  },
+  {
+    "url": "https://jacksonpradolima.github.io/email-signature/website.png",
+    "status": 200,
+    "content_type": "image/png",
+    "bytes": 1914,
+    "sha256": "1ef2ccc0f8abd17c54436fd97502335e2e741e295373fe6e71f52eaecade56ef"
+  },
+  {
+    "link": "LinkedIn",
+    "url": "https://www.linkedin.com/in/pradolima/",
+    "status": 999,
+    "note": "External server rejected automated client; manual link test required"
+  },
+  {
+    "link": "GitHub",
+    "url": "https://github.com/jacksonpradolima",
+    "status": 200,
+    "final_url": "https://github.com/jacksonpradolima"
+  },
+  {
+    "link": "Scholar",
+    "url": "https://scholar.google.com/citations?user=Kx0r5jkAAAAJ&hl=en",
+    "status": 200,
+    "final_url": "https://scholar.google.com/citations?user=Kx0r5jkAAAAJ&hl=en"
+  },
+  {
+    "link": "Website",
+    "url": "https://jacksonpradolima.github.io/",
+    "status": 200,
+    "final_url": "https://jacksonpradolima.github.io/"
+  }
+]
